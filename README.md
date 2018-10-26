@@ -1,2 +1,3 @@
 # desafio-java3-codenation
-Desafio 3 da linguagem java do CodeNation
+
+https://www.codenation.com.br/journey/backend/challenge/java-3.html
